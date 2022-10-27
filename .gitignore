@@ -1,0 +1,7 @@
+.vscode/
+*.txt
+*.csv
+*.o
+debug/generate
+release/generate
+

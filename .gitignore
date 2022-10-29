@@ -2,6 +2,7 @@
 *.txt
 *.csv
 *.o
-debug/generate
-release/generate
+debug/gen*
+release/gen*
+
 
